@@ -1,0 +1,18 @@
+{
+  "name": "arunpremji-site",
+  "version": "1.0.0",
+  "description": "arunpremji.com portfolio site with an admin panel for creating location-targeted SEO landing pages",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-session": "^1.18.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
